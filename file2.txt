@@ -1,0 +1,1 @@
+this file contains some text data which is saved as file2.txt
